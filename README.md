@@ -1,4 +1,4 @@
-# Office Agents and Their Incremental Learning Framework
+# Self-Sovereign Office Agents and Their Incremental Learning Framework
 Cybersecurity is vital. To hinder our products from being abused and to prevent hackers from exploiting vulnerabilities in this platform to gain control over users, the latest versions of this platform are NOT open.
 # Our Contributions
 1. [Fire Bunny Intelligent Development Platform](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform) Open to all.
