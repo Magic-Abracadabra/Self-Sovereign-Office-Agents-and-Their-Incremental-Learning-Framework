@@ -1,5 +1,8 @@
 # Self-Sovereign Office Agents and Their Incremental Learning Framework
 Cybersecurity is vital. To hinder our products from being abused and to prevent hackers from exploiting vulnerabilities in this platform to gain control over users, the latest versions of this platform are NOT open.
+# Our Values Sorting (i.e., ranking of importance)
+1. Self-Sovereign (which is beneficial)
+2. Powerful
 # Our Contributions
 1. [Fire Bunny Intelligent Development Platform](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform) Open to all.
 2. [Gradual Magic Intelligent Office Automation Platform](https://github.com/Magic-Abracadabra/DAHSF) Using the [DAHSF](https://www.alphaxiv.org/abs/2412.14054) framework and its incremental learning RPA. Currently available but confidential.
