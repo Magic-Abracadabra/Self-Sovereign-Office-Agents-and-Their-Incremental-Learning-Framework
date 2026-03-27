@@ -1,6 +1,7 @@
 # Self-Sovereign Office Agents and Their Incremental Learning Framework
 Cybersecurity is vital. To hinder our products from being abused and to prevent hackers from exploiting vulnerabilities in this platform to gain control over users, the latest versions of this platform are NOT open.
 # Our Values Sorting (i.e., ranking of importance)
+We prioritize your sovereignty of your AIs, and then make them powerful.
 1. Self-Sovereign (which is beneficial)
 2. Powerful
 # Our Contributions
