@@ -6,7 +6,7 @@ We prioritize your sovereignty, and then we make such AIs powerful.
 1. Self-Sovereign (which is beneficial)
 2. Powerful
 # Our Contributions
-1. [Fire Bunny Intelligent Development Platform](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform) Open to all.
+1. [Fire Bunny Intelligent Development Platform](https://radicle.network/nodes/iris.radicle.network/rad:z4XWB1AuLKAai8X89w9mo4qgZda5y) Open to all.
 2. [Gradual Magic Intelligent Office Automation Platform](https://github.com/Magic-Abracadabra/DAHSF) Using the [DAHSF](https://www.alphaxiv.org/abs/2412.14054) framework and its incremental learning RPA. Currently available but confidential.
 3. [Our Current Focus] To be continued... (小道消息说会基于“人众共强”设计)
 # Our Initial Technology Roadmap Draft
