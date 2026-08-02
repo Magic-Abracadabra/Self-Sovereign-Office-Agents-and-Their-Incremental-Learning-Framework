@@ -1,5 +1,5 @@
 # Self-Sovereign Office Agents and Their Incremental Learning Framework
-Everyone shall be your **creator** of your AI, not your *crude oil* of your AI. Your AI should always stand on your position and represent you. Your AI is your Identity.
+Everyone shall be your **creator** of your AI, not the ~~crude oil~~ of your AI. Your AI should always stand on your position and represent you. Your AI is your Identity.
 
 Cybersecurity is vital. To hinder our products from being abused, to prevent hackers from exploiting vulnerabilities in this platform to gain control over users, and to **avoid being taken over by forces that support these 3 dark powers (The Great Filter: Surveillance Capitalism, Technofeudalism, Infinitely Amusing People to Death)**, the latest versions of this platform are **confidential**.
 
